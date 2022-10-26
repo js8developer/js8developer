@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @js8developer
-- 👀 I’m interested in Mobile, Web, & Blockchain Engineering
+- 👀 I’m interested in Blockchain, Mobile, & Web Development
 - 🌱 I’m currently learning React Native
 
 <!---
