@@ -31,4 +31,4 @@ Outside of building really cool things, I enjoy to do some of the following as w
 * Watching stand-up comedy 🎤 🤣
 
 ## Let's Connect! 💬
-You can check out my GitHub [here](https://github.com/js8developer) and my portfolio website [here](https://www.jasonschneider.tech/) to see my work. I'm looking forward to collaborating with you on your ideas! 💻 ✨
+You can check out my GitHub [here](https://github.com/js8developer) and my Portfolio Website [here](https://www.jasonschneider.tech/) to see my work. I'm looking forward to collaborating with you on your ideas! 💻 ✨
