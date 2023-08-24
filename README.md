@@ -34,5 +34,7 @@ Outside of building really cool things, I enjoy doing some of the following as w
 You can check out my LinkedIn [here](https://www.linkedin.com/in/jasonschneider8) and my Portfolio Website [here](https://www.jasonschneider.tech) to see my work. I'm looking forward to collaborating with you on your ideas! 💻 ✨
 
 ## Open Source Swift Packages 📦
+Here are some Swift Packages I have created to reuse in several of my projects. Check them out and see if any can help you!
 
-* [FirestoreService](https://github.com/js8developer/FirestoreService): Offers CRUD (Create, Read, Update, Delete) operations and document retrieval methods for Firestore collections.
+👉 [FirestoreService](https://github.com/js8developer/FirestoreService):
+  * Offers CRUD (Create, Read, Update, Delete) operations and document retrieval methods for Firestore collections.
