@@ -11,7 +11,7 @@ As an iOS & Web3 Software Engineer, I am always eager to learn and adapt to new 
 ### iOS Development:
 * Proficient in developing native iOS applications using Swift, including SwiftUI, Combine, UIKit, and Foundation frameworks.
 * Experienced in using iOS libraries and frameworks such as XCTest, Core Data, AVFoundation, AVKit, Core Location, MapKit, and more.
-* Skilled in writing unit tests and UI tests for ensuring code quality and stability.
+* Skilled in writing unit tests and UI tests to ensure code quality and stability.
 
 ### Web3 Development:
 * Knowledgeable in developing decentralized applications (DApps) and smart contracts using Solidity for blockchain platforms like Ethereum.
@@ -19,10 +19,10 @@ As an iOS & Web3 Software Engineer, I am always eager to learn and adapt to new 
 * Experienced in building web applications using modern web technologies and frameworks.
 
 ## Additional Skills
-My skills also extend to databases such as NoSQL, Google Firebase, Google Cloud Platform, MongoDB, and AWS, as well as version control using Git and GitHub. I am proficient in using development tools such as XCode and VSCode, and have experience with REST API design, UI/UX design using Figma and Sketch, and managing dependencies with Swift Package Manager and CocoaPods.
+My skills also extend to databases such as NoSQL, Google Firebase, Google Cloud Platform, MongoDB, and AWS, as well as version control using Git and GitHub. I am proficient in using development tools such as XCode and VSCode and have experience with REST API design, UI/UX design using Figma and Sketch, and managing dependencies with Swift Package Manager and CocoaPods.
 
 ## About Me 
-Outside of building really cool things, I enjoy to do some of the following as well:
+Outside of building really cool things, I enjoy doing some of the following as well:
 
 * Spending time with friends and family 😆
 * Reading a really good book 📚
@@ -32,3 +32,7 @@ Outside of building really cool things, I enjoy to do some of the following as w
 
 ## Let's Connect! 💬
 You can check out my LinkedIn [here](https://www.linkedin.com/in/jasonschneider8) and my Portfolio Website [here](https://www.jasonschneider.tech) to see my work. I'm looking forward to collaborating with you on your ideas! 💻 ✨
+
+## Open Source Swift Packages 📦
+
+* [FirestoreService](https://github.com/js8developer/FirestoreService): Offers CRUD (Create, Read, Update, Delete) operations and document retrieval methods for Firestore collections.
