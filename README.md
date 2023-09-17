@@ -6,7 +6,7 @@
 
 |  | Tech |
 |------------|-------------|
-| **Language** | Swift, GraphQL |
+| **Languages** | Swift, GraphQL |
 | **UI Framework** | SwiftUI, UIKit |
 | **Database & Backend** | Firebase |
 | **IDE** | Xcode |
