@@ -5,10 +5,10 @@
 ### 📦 My Swift Packages
 Here are some Open Source Swift Packages I have created to reuse in several of my own projects. Check them out and see if any can help you! 
 
-👉  [FirestoreService](https://github.com/js8developer/FirestoreService):
+🔥  [FirestoreService](https://github.com/js8developer/FirestoreService):
   * Offers CRUD (Create, Read, Update, Delete) operations and document retrieval methods for Firestore collections.
 
-👉  [FlashCache](https://github.com/js8developer/FlashCache):
+⚡️  [FlashCache](https://github.com/js8developer/FlashCache):
   * Simplifies in-memory caching with support for multiple cache policies, including Least Frequently Used (LFU) and Least Recently Used (LRU).
 
 --- 
